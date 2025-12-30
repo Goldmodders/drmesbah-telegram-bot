@@ -1,3 +1,7 @@
 {
-    "require": {}
+ "name": "goldmodders/drmesbah-telegram-bot",
+ "type": "project",
+ "require": {
+ "php": ">=8.0"
+ }
 }
